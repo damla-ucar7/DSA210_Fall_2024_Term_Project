@@ -10,7 +10,7 @@ Research Question:
   Does my coffee shop spendings change with respect to specific deadlines, midterms and finals, and which coffee shop I prefer the most during these time periods?
 
 Hypothesis:
-  I think my visits to the coffee shops increase during exam weeks and deadlines. Also, I think I prefer Coffy mostly among all the coffee shops in my campus since it is closer to the Information Center. 
+  My visits to the coffee shops increase during exam weeks and deadlines. Also, I prefer Coffy mostly among all the coffee shops in my campus since it is closer to the Information Center. 
 
 Methodology, Scope and Intended Steps:
   I chose my data source as my Akbank transaction history as pdf files and my academic calendar -including midterms, finals and deadlines of projects, important homeworks and take home tasks- as an excel file. I will extract the related data -Starbucks, Coffy, Espressolab, Simit Sarayı and Fasshane- from the files. I will focus on the time period from 02.03.2024 to 31.12.2024 excluding the summer time that I wasn't in university. Also, as stated above this project will only focus on five coffee shops which are located in our campus. 
