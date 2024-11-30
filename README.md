@@ -15,6 +15,7 @@
 ## Methodology, Scope and Intended Steps:
   I chose my data source as my Akbank transaction history as pdf files and my academic calendar -including midterms, finals and deadlines of projects, important homeworks and take home tasks- as an excel file. I will extract the related data -Starbucks, Coffy, Espressolab, Simit Sarayı and Fasshane- from the files. I will focus on the time period from 02.03.2024 to 31.12.2024 excluding the summer time that I wasn't in university. Also, as stated above this project will only focus on five coffee shops which are located in our campus. 
   After extracting the related raw data and putting it into a proper form, I will match the dates with the transaction history. I will visualize the data using the methods I learned in the lecture and use a proper chart system to combine all the data. After visualization, I will calculate averages, frequency and correlations. Based on my findings on data I will evaluate my hypothesis and write my conclusion. 
+  
   **My intended timeline for the steps I wrote:**
   - **Step1** - Gather all the raw data from Akbank. Form an excel sheet including midterms, finals and deadlines. - Week1
   - **Step2** - Extract the related data from Akbank. Put all the data in a form and match the dates, so that I can work on it. -Week2
