@@ -26,8 +26,7 @@
   - **Step5** - Finalize the report. -Week4
 
 ## Conclusion:
-  The background, purpose and outline of this project is given above. Also, the expected outcome is to find a correlation between my spendings and academic activity and regulate my habits accordingly. For now, I will start to work on the project and update this report based on my progress and findings regularly.
-  
+  In this project, I analyzed the relationship between my coffee shop spending and academic deadlines. The results showed mixed findings. The chi-square test suggested a weak but significant link (Chi-Square Statistic: 6.41, p-value: 0.0406), but the linear regression (R-squared: 0.00) and correlation coefficients (Pearson: -0.03, Spearman: -0.09) indicated almost no direct connection. Logistic regression provided moderate accuracy (weighted F1-score: 0.62), hinting that other factors might also play a role in my spending habits. Overall, while deadlines might have some influence, the relationship isn’t as strong as I expected. Moving forward, I plan to explore additional factors to better understand and manage my behavior.
   
   
   
