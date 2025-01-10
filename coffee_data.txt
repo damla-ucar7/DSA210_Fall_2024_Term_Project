@@ -1,0 +1,165 @@
+
+05/03/2024, Starbucks
+06/03/2024, Coffy
+12/03/2024, Espressolab
+13/03/2024, Coffy
+15/03/2024, Coffy
+16/03/2024, Starbucks
+18/03/2024, Starbucks
+19/03/2024, Starbucks
+20/03/2024, Starbucks
+20/03/2024, Starbucks
+21/03/2024, Starbucks
+22/03/2024, Starbucks
+29/03/2024, Coffy
+31/03/2024, Espressolab
+01/04/2024, Coffy
+03/04/2024, Coffy
+18/04/2024, Fasshane
+21/04/2024, Coffy
+22/04/2024, Starbucks
+23/04/2024, Starbucks
+24/04/2024, Starbucks
+25/04/2024, Coffy
+25/04/2024, Simit Sarayı
+25/04/2024, Coffy
+26/04/2024, Fasshane
+27/04/2024, Coffy
+27/04/2024, Coffy
+28/04/2024, Espressolab
+30/04/2024, Starbucks
+01/05/2024, Espressolab
+01/05/2024, Coffy
+02/05/2024, Starbucks
+03/05/2024, Coffy
+03/05/2024, Fasshane
+05/05/2024, Coffy
+06/05/2024, Coffy
+07/05/2024, Coffy
+08/05/2024, Coffy
+13/05/2024, Coffy
+15/05/2024, Starbucks
+16/05/2024, Starbucks
+16/05/2024, Espressolab
+19/05/2024, Coffy
+22/05/2024, Coffy
+23/05/2024, Starbucks
+24/05/2024, Fasshane
+24/05/2024, Starbucks
+25/05/2024, Starbucks
+26/05/2024, Espressolab
+26/05/2024, Coffy
+27/05/2024, Starbucks
+27/05/2024, Coffy
+28/05/2024, Coffy
+28/05/2024, Starbucks
+29/05/2024, Fasshane
+29/05/2024, Coffy
+29/05/2024, Coffy
+30/05/2024, Coffy
+30/05/2024, Simit Sarayı
+30/05/2024, Coffy
+31/05/2024, Coffy
+31/05/2024, Starbucks
+31/05/2024, Coffy
+01/06/2024, Espressolab
+02/06/2024, Starbucks
+02/06/2024, Coffy
+05/06/2024, Coffy
+06/06/2024, Coffy
+08/06/2024, Starbucks
+01/10/2024, Coffy
+04/10/2024, Coffy
+07/10/2024, Coffy
+08/10/2024, Starbucks
+09/10/2024, Simit Sarayı
+10/10/2024, Starbucks
+10/10/2024, Coffy
+11/10/2024, Starbucks
+12/10/2024, Starbucks
+14/10/2024, Coffy
+15/10/2024, Starbucks
+15/10/2024, Simit Sarayı
+17/10/2024, Espressolab
+17/10/2024, Starbucks
+17/10/2024, Coffy
+20/10/2024, Espressolab
+21/10/2024, Simit Sarayı
+23/10/2024, Coffy
+24/10/2024, Espressolab
+25/10/2024, Coffy
+30/10/2024, Coffy
+30/10/2024, Coffy
+01/11/2024, Coffy
+02/11/2024, Coffy
+04/11/2024, Starbucks
+05/11/2024, Simit Sarayı
+06/11/2024, Coffy
+06/11/2024, Coffy
+07/11/2024, Simit Sarayı
+07/11/2024, Coffy
+07/11/2024, Coffy
+08/11/2024, Coffy
+08/11/2024, Coffy
+09/11/2024, Coffy
+09/11/2024, Coffy
+10/11/2024, Starbucks
+11/11/2024, Simit Sarayı
+12/11/2024, Starbucks
+12/11/2024, Simit Sarayı
+15/11/2024, Simit Sarayı
+15/11/2024, Espressolab
+18/11/2024, Starbucks
+19/11/2024, Starbucks
+19/11/2024, Starbucks
+20/11/2024, Starbucks
+20/11/2024, Coffy
+21/11/2024, Starbucks
+25/11/2024, Starbucks
+25/11/2024, Starbucks
+25/11/2024, Simit Sarayı
+27/11/2024, Simit Sarayı
+27/11/2024, Simit Sarayı
+27/11/2024, Starbucks
+28/11/2024, Coffy
+29/11/2024, Coffy
+29/11/2024, Starbucks
+30/11/2024, Starbucks
+01/12/2024, Starbucks
+02/12/2024, Simit Sarayı
+02/12/2024, Coffy
+03/12/2024, Simit Sarayı
+04/12/2024, Espressolab
+04/12/2024, Simit Sarayı
+04/12/2024, Coffy
+05/12/2024, Fasshane
+06/12/2024, Starbucks
+06/12/2024, Coffy
+07/12/2024, Coffy
+07/12/2024, Espressolab
+08/12/2024, Coffy
+08/12/2024, Espressolab
+09/12/2024, Fasshane
+09/12/2024, Coffy
+09/12/2024, Espressolab
+10/12/2024, Starbucks
+10/12/2024, Starbucks
+11/12/2024, Coffy
+12/12/2024, Coffy
+12/12/2024, Coffy
+13/12/2024, Coffy
+13/12/2024, Starbucks
+13/12/2024, Coffy
+14/12/2024, Fasshane
+15/12/2024, Starbucks
+16/12/2024, Simit Sarayı
+16/12/2024, Starbucks
+16/12/2024, Coffy
+17/12/2024, Coffy
+17/12/2024, Starbucks
+18/12/2024, Starbucks
+18/12/2024, Coffy
+20/12/2024, Simit Sarayı
+20/12/2024, Espressolab
+21/12/2024, Starbucks
+21/12/2024, Starbucks
