@@ -18,12 +18,15 @@
   
   After extracting the related raw data and putting it into a proper form, I will match the dates with the transaction history. I will visualize the data using the methods I learned in the lecture like EDA and use a proper chart system to combine all the data. After visualization, I will calculate averages, frequency and correlations using correlation coefficients. Based on my findings on data I will evaluate my hypothesis and write my conclusion. 
   
-  **My intended timeline for the steps I wrote:**
-  - **Step1** - Gather all the raw data from Akbank. Form an excel sheet including midterms, finals and deadlines. - Week1
-  - **Step2** - Extract the related data from Akbank. Put all the data in a form and match the dates, so that I can work on it. -Week2
-  - **Step3** - Visualize the data using EDA, charts and python. -Week3
-  - **Step4** - Calculate related statistics and test hypothesis. -Week4
-  - **Step5** - Finalize the report. -Week4
+  **My outline for the steps I wrote:**
+  - **Step1** - Gather all the raw data from Akbank. Form an excel sheet including midterms, finals and deadlines. 
+  - **Step2** - Extract the related data from Akbank. Put all the data in a form and match the dates, so that I can work on it. 
+  - **Step3** - Visualize the data using EDA, charts and python. 
+  - **Step4** - Calculate related statistics and test hypothesis. 
+  - **Step5** - Finalize the report. 
+  - 
+## Process
+  To gather and prepare the data, I first downloaded the related transaction files. Then I used OCR (Optical Character Recognition) to extract transaction details from my Akbank PDF files. Also, I used some keywords to filter the data and categorize the coffee shops. I then organized the extracted data into a txt file by filtering out some unrelated columns, aligning it with dates. Later, I created an excel file for the academic calender data and I converted it into a txt file. Using this structured dataset, I visualized the data through a stacked bar chart to represent coffee shop spending patterns alongside academic deadlines, date by date. After visualizing, I applied statistical techniques such as linear regression, chi-square tests, and correlation analysis to explore and quantify the relationship between my spending habits and academic activity. This combination of data extraction, visualization, and statistical analysis helped me gain deeper insights into my behavior.
 
 ## Conclusion:
   In this project, I analyzed the relationship between my coffee shop spending and academic deadlines. The results showed mixed findings. The chi-square test suggested a weak but significant link (Chi-Square Statistic: 6.41, p-value: 0.0406), but the linear regression (R-squared: 0.00) and correlation coefficients (Pearson: -0.03, Spearman: -0.09) indicated almost no direct connection. Logistic regression provided moderate accuracy (weighted F1-score: 0.62), hinting that other factors might also play a role in my spending habits. Overall, while deadlines might have some influence, the relationship isn’t as strong as I expected. Moving forward, I plan to explore additional factors to better understand and manage my behavior.
