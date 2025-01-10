@@ -23,8 +23,8 @@
   - **Step2** - Extract the related data from Akbank. Put all the data in a form and match the dates, so that I can work on it. 
   - **Step3** - Visualize the data using EDA, charts and python. 
   - **Step4** - Calculate related statistics and test hypothesis. 
-  - **Step5** - Finalize the report. 
-  - 
+  - **Step5** - Finalize the report.
+    
 ## Process
   To gather and prepare the data, I first downloaded the related transaction files. Then I used OCR (Optical Character Recognition) to extract transaction details from my Akbank PDF files. Also, I used some keywords to filter the data and categorize the coffee shops. I then organized the extracted data into a txt file by filtering out some unrelated columns, aligning it with dates. Later, I created an excel file for the academic calender data and I converted it into a txt file. Using this structured dataset, I visualized the data through a stacked bar chart to represent coffee shop spending patterns alongside academic deadlines, date by date. After visualizing, I applied statistical techniques such as linear regression, chi-square tests, and correlation analysis to explore and quantify the relationship between my spending habits and academic activity. This combination of data extraction, visualization, and statistical analysis helped me gain deeper insights into my behavior.
 
