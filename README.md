@@ -30,6 +30,8 @@
 
 ## Conclusion:
   In this project, I analyzed the relationship between my coffee shop spending and academic deadlines. The results showed mixed findings. The chi-square test suggested a weak but significant link (Chi-Square Statistic: 6.41, p-value: 0.0406), but the linear regression (R-squared: 0.00) and correlation coefficients (Pearson: -0.03, Spearman: -0.09) indicated almost no direct connection. Logistic regression provided moderate accuracy (weighted F1-score: 0.62), hinting that other factors might also play a role in my spending habits. Overall, while deadlines might have some influence, the relationship isn’t as strong as I expected. Also, from the analysis, it’s clear that I visit Coffy the most out of all the coffee shops in the dataset. This fits with my expectation since Coffy is the closest to the Information Center, making it the most convenient choice, especially during busy academic periods. In sum, even though I couldn't see a strong correlation between my spending habits at coffee shops and academic deadlines, I think that it would be a good idea to try to manage busy weeks with less visits to coffee shops. In this project I didn't examine the amount of money I spend, because I wanted to focus on pattern instead of the exact value. I saw that I visit Coffy more which is very sensible. This project aimed to figure out the patterns and I believe it succeeded. Additionally, I think further analysis is needed to figure out more.
-  
+
+Also, I made a slide and include the detailed steps. You can go through the link.
+https://docs.google.com/presentation/d/1MvnxpZrsE0dF48RSCcOyGOq-QG3Dt3IuQAo3JLMpeaQ/edit?usp=sharing 
   
   
